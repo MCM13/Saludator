@@ -9,7 +9,8 @@ Ejercicio de una aplicación web con un boton para saludar por pantalla.
 -css
 
 ## Deploy en github
-https://oscarrial.github.io/Saludator/
+
+https://mcm13.github.io/Saludator/
 
 ## Etapas
 
